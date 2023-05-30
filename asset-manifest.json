@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flipcart/static/css/main.f901264b.css",
+    "main.js": "/flipcart/static/js/main.77ccc5aa.js",
+    "index.html": "/flipcart/index.html",
+    "main.f901264b.css.map": "/flipcart/static/css/main.f901264b.css.map",
+    "main.77ccc5aa.js.map": "/flipcart/static/js/main.77ccc5aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f901264b.css",
+    "static/js/main.77ccc5aa.js"
+  ]
+}
